@@ -1,0 +1,47 @@
+[
+    {
+      "id": 1,
+      "image": "assets/images/pizza.gif",
+      "beenclicked": false
+    },
+    {
+      "id": 2,
+      "image": "assets/images/rainbow.gif",
+      "beenclicked": false
+    },
+    {
+      "id": 3,
+      "image": "assets/images/shake.gif",
+      "beenclicked": false
+    },
+    {
+      "id": 4,
+      "image": "assets/images/derp.gif",
+      "beenclicked": false
+    },
+    {
+      "id": 5,
+      "image": "assets/images/fat.gif",
+      "beenclicked": false
+    },
+    {
+      "id": 6,
+      "image": "assets/images/gradient.gif",
+      "beenclicked": false
+    },
+    {
+      "id": 7,
+      "image": "assets/images/hat.gif",
+      "beenclicked": false
+    },
+    {
+      "id": 8,
+      "image": "assets/images/peepers.gif",
+      "beenclicked": false
+    },
+    {
+      "id": 9,
+      "image": "assets/images/sunglasses.gif",
+      "beenclicked": false
+    }
+  ]
