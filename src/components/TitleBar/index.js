@@ -10,10 +10,10 @@ class TitleBar extends Component {
     render() {
         return (
             <div className="ui four item menu">
-                <a className="item" onClick={ this.refreshPage }>Clicky Game</a>
-                <a className="item"></a>
-                <a className="item">Current Score: {this.props.score}</a>
-                <a className="item">High Score: {this.props.highscore}</a>
+                <a href="/" className="item" onClick={ this.refreshPage }>Clicky Game</a>
+                <div className="item"></div>
+                <div className="item">Current Score: {this.props.score}</div>
+                <div className="item">High Score: {this.props.highscore}</div>
             </div>
         )
 

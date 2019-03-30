@@ -6,7 +6,7 @@ class Card extends Component {
         return (
             <div className="ui raised link centered card" onClick={() => this.props.removeCard(this.props.id)}>
                 <div className="image">
-                    <img src={this.props.image} />
+                    <img alt="doge" src={this.props.image} />
                 </div>
             </div>
         )
